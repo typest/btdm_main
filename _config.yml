@@ -16,7 +16,7 @@
 title: "Bidirectional Temporal Diffusion Model for Temporally Consistent Human Animation"
 email: 'tdain72@gmail.com'
 description: "Tserendorj Adiya<sup>1</sup>, Sanghun Kim<sup>1</sup>, Jung Eun Lee<sup>1</sup>, Jae Shin Yoon<sup>2</sup> and Hwasup Lim<sup>1</sup> <br /> Korea Institude of Science and Technology<sup>1</sup>, Adobe<sup>2</sup>."
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "https://typest.github.io/btdm/" # the subpath of your site, e.g. /blog
 # url: "https://jamigibbs.github.io/phantom" # the base hostname & protocol for your site, e.g. https://example.com
 # twitter_username: 'jamigibbs'
 # github_username: 'jamigibbs'
